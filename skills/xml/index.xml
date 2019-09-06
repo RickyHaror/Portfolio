@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xml on Ricky Haror</title>
+    <link>https://rickyharor.com/skills/xml/</link>
+    <description>Recent content in Xml on Ricky Haror</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 20 Jun 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://rickyharor.com/skills/xml/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Tool Settings Generator</title>
+      <link>https://rickyharor.com/post/2/</link>
+      <pubDate>Thu, 20 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://rickyharor.com/post/2/</guid>
+      <description>I automated the creation of Brightspace tool settings with a Tool Settings Generator.
+Courses in the Brightspace Learning Management System (LMS) often have several quizzes, assignments, and/or discussions with the same settings. It can be a tedious process to create new tools one at a time in the Brightsapce LMS. I always thought there should be a quicker way to create new tools when they all have the same settings.</description>
+    </item>
+    
+  </channel>
+</rss>

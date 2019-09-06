@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Serverless on Ricky Haror</title>
+    <link>https://rickyharor.com/skills/serverless/</link>
+    <description>Recent content in Serverless on Ricky Haror</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 30 Jul 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://rickyharor.com/skills/serverless/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>API Gateway</title>
+      <link>https://rickyharor.com/post/4/</link>
+      <pubDate>Tue, 30 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://rickyharor.com/post/4/</guid>
+      <description>I built a secure way to access and filter the Brightspace API.
+Brightspace is a password-protected Learning Management System (LMS) developed by D2L. Its purpose is for the administration, tracking, reporting, and delivery of educational courses. Brightspace has an API for third-party integrations, however, it often allows the third-party to access to more data than an organization would like to provide such as student information.
+To solve this problem, I developed a serverless API gateway paired with Azure Key Vault.</description>
+    </item>
+    
+    <item>
+      <title>Brightspace Link Checker</title>
+      <link>https://rickyharor.com/post/5/</link>
+      <pubDate>Tue, 30 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://rickyharor.com/post/5/</guid>
+      <description>I automated the task of manually validating thousands of links in the Brightspace LMS.
+Online courses housed in a secure LMS can have hundreds of hyperlinks on HTML pages that point to public websites as means of additional content or supplemental resources for students. Validating those hyperlinks across hundreds of courses, several times year, is a very manual time-consuming process. Hyperlinks break often and this is becoming a growing problem as the number of open learning resources available publicly on the web grows.</description>
+    </item>
+    
+  </channel>
+</rss>

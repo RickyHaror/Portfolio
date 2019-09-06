@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Skills on Ricky Haror</title>
+    <link>https://rickyharor.com/skills/</link>
+    <description>Recent content in Skills on Ricky Haror</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 30 Jul 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://rickyharor.com/skills/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Angular</title>
+      <link>https://rickyharor.com/skills/angular/</link>
+      <pubDate>Tue, 30 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://rickyharor.com/skills/angular/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Aws</title>
+      <link>https://rickyharor.com/skills/aws/</link>
+      <pubDate>Tue, 30 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://rickyharor.com/skills/aws/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Azure</title>
+      <link>https://rickyharor.com/skills/azure/</link>
+      <pubDate>Tue, 30 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://rickyharor.com/skills/azure/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bootstrap</title>
+      <link>https://rickyharor.com/skills/bootstrap/</link>
+      <pubDate>Tue, 30 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://rickyharor.com/skills/bootstrap/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>C Sharp</title>
+      <link>https://rickyharor.com/skills/c-sharp/</link>
+      <pubDate>Tue, 30 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://rickyharor.com/skills/c-sharp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dot Net</title>
+      <link>https://rickyharor.com/skills/dot-net/</link>
+      <pubDate>Tue, 30 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://rickyharor.com/skills/dot-net/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ef Core</title>
+      <link>https://rickyharor.com/skills/ef-core/</link>
+      <pubDate>Tue, 30 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://rickyharor.com/skills/ef-core/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Github Pages</title>
+      <link>https://rickyharor.com/skills/github-pages/</link>
+      <pubDate>Mon, 15 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://rickyharor.com/skills/github-pages/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Javascript</title>
+      <link>https://rickyharor.com/skills/javascript/</link>
+      <pubDate>Tue, 30 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://rickyharor.com/skills/javascript/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Json</title>
+      <link>https://rickyharor.com/skills/json/</link>
+      <pubDate>Tue, 30 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://rickyharor.com/skills/json/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Okta</title>
+      <link>https://rickyharor.com/skills/okta/</link>
+      <pubDate>Tue, 15 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://rickyharor.com/skills/okta/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Serverless</title>
+      <link>https://rickyharor.com/skills/serverless/</link>
+      <pubDate>Tue, 30 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://rickyharor.com/skills/serverless/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sql</title>
+      <link>https://rickyharor.com/skills/sql/</link>
+      <pubDate>Tue, 30 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://rickyharor.com/skills/sql/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Web Api</title>
+      <link>https://rickyharor.com/skills/web-api/</link>
+      <pubDate>Tue, 30 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://rickyharor.com/skills/web-api/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Xml</title>
+      <link>https://rickyharor.com/skills/xml/</link>
+      <pubDate>Thu, 20 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://rickyharor.com/skills/xml/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

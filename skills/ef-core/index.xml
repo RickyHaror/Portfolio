@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ef Core on Ricky Haror</title>
+    <link>https://rickyharor.com/skills/ef-core/</link>
+    <description>Recent content in Ef Core on Ricky Haror</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 30 Jul 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://rickyharor.com/skills/ef-core/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Brightspace Link Checker</title>
+      <link>https://rickyharor.com/post/5/</link>
+      <pubDate>Tue, 30 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://rickyharor.com/post/5/</guid>
+      <description>I automated the task of manually validating thousands of links in the Brightspace LMS.
+Online courses housed in a secure LMS can have hundreds of hyperlinks on HTML pages that point to public websites as means of additional content or supplemental resources for students. Validating those hyperlinks across hundreds of courses, several times year, is a very manual time-consuming process. Hyperlinks break often and this is becoming a growing problem as the number of open learning resources available publicly on the web grows.</description>
+    </item>
+    
+    <item>
+      <title>Project Management Software for Course Development</title>
+      <link>https://rickyharor.com/post/1/</link>
+      <pubDate>Tue, 15 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://rickyharor.com/post/1/</guid>
+      <description>Project management applications are either expensive or time-consuming to configure and customize for your team (I&amp;rsquo;m looking at you spreadsheets!). In a team environment, using spreadsheets or other offline files can be tricky for access with multiple users opening and saving the same file, resulting in &amp;ldquo;conflicted file&amp;rdquo; errors.
+To solve this problem, I developed a secure web application to track course development projects for agile and waterfall-based projects.
+The application uses C# .</description>
+    </item>
+    
+  </channel>
+</rss>

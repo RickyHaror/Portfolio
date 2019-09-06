@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Github Pages on Ricky Haror</title>
+    <link>https://rickyharor.com/skills/github-pages/</link>
+    <description>Recent content in Github Pages on Ricky Haror</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 15 Jul 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://rickyharor.com/skills/github-pages/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Content Library App</title>
+      <link>https://rickyharor.com/post/3/</link>
+      <pubDate>Mon, 15 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://rickyharor.com/post/3/</guid>
+      <description>I automated content updates to online course with my Content Library App.
+Based on my experience of working on several development teams, online courses typically have some content that is the same across all courses. An example of this might be a &amp;ldquo;Getting Started&amp;rdquo; module. When there are a few hundred courses and a change needs to be made to this module, updating that content can be tedious and time-consuming.</description>
+    </item>
+    
+  </channel>
+</rss>
